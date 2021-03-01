@@ -1,6 +1,7 @@
 host, cdp.cloud.unity3d.com, MobileAds
 host, ads.mopub.com, MobileAds
 host, cb.mopub.com, MobileAds
+host, mpx.mopub.com, MobileAds
 host-suffix, vungle.com, MobileAds
 host, api.vungle.com, MobileAds
 host, ads.api.vungle.com, MobileAds
@@ -15,5 +16,7 @@ host, ms.applovin.com, MobileAds
 host, ms.applvn.com, MobileAds
 host, prod-a.applovin.com, MobileAds
 host, prod-a.applvn.com, MobileAds
+host, res1.applovin.com, MobileAds
+host, res1.applvn.com, MobileAds
 host, rt.applovin.com, MobileAds
 host, rt.applvn.com, MobileAds
