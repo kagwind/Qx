@@ -1,2 +1,7 @@
 host-suffix, ssacdn.com, REJECT
+host-suffix, snssdk.com, REJECT
 host-suffix, crossinstall.com, REJECT
+host-suffix, crossinstall.io, REJECT
+host-suffix, pstatp.com, REJECT
+host-suffix, pglstatp-toutiao.com, REJECT
+host-suffix, pangolin-sdk-toutiao.com, REJECT
